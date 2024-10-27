@@ -1,0 +1,40 @@
+.wrapper{
+    display: flex;
+    gap: 45px;
+     margin: 250px 60px;
+
+  
+    
+}
+
+.watch{
+    height: 20px;
+    width: 25%;
+    background-color: #0dcbf0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 30px;
+    border-radius: 10px;
+   
+}
+.shoe{
+    height: 20px;
+    width: 25%;
+    background-color: #0e6ffd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 30px;
+    border-radius: 10px;
+} 
+.bag{
+    height: 20px;
+    width: 25%;
+    background-color: #198754;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 30px;
+    border-radius: 10px;
+}
